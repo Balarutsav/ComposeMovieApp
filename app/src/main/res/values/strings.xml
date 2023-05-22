@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BaseCode</string>
+    <string name="lbl_welcome_back">Welcome Back</string>
+    <string name="lbl_email_and_password">Please enter your email and password to login.</string>
+    <string name="lbl_signin_and_continue">Please sign in to continue.</string>
+    <string name="lbl_email_address">Email Address</string>
+    <string name="lbl_password">Password</string>
+    <string name="msg_enter_email">Please enter email address</string>
+    <string name="msg_valid_email">please enter valid email</string>
+    <string name="msg_password_minimum_6_chars">Password at least 6 characters</string>
+    <string name="msg_password_empty">Please enter password</string>
+    <string name="lbl_login">Login</string>
+</resources>
